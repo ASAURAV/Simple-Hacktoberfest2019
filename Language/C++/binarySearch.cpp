@@ -1,5 +1,5 @@
 // C++ program to implement recursive Binary Search 
-#include <iostream> 
+#include <bits/stdc++.h> 
 using namespace std; 
 
 // A recursive binary search function. It returns 
